@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 984.9 689.7" style="enable-background:new 0 0 984.9 689.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{font-family:'IBMPlexMono';}
+	.st2{font-size:5.3974px;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:1.9369,0.9684;}
+	.st6{fill:none;stroke:#800000;stroke-width:2;stroke-linecap:round;stroke-miterlimit:11.3386;}
+</style>
+<g id="Layer_2">
+	<line class="st0" x1="240.4" y1="262" x2="240.4" y2="326.8"/>
+	<text transform="matrix(1 0 0 1 856.0352 281.4736)" class="st1 st2">10x1F–H8.5</text>
+	<text transform="matrix(1 0 0 1 783.4929 245.4735)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 791.2343 268.155)" class="st1 st2">C4</text>
+	<text transform="matrix(1 0 0 1 791.2343 282.5538)" class="st1 st2">100n</text>
+	<text transform="matrix(1 0 0 1 751.6345 441.1973)" class="st1 st2">IO7</text>
+	<text transform="matrix(1 0 0 1 751.6345 362.8346)" class="st1 st2">SS</text>
+	<text transform="matrix(1 0 0 1 751.6345 370.0337)" class="st1 st2">IO9</text>
+	<text transform="matrix(1 0 0 1 751.6345 377.2348)" class="st1 st2">IO8</text>
+	<text transform="matrix(1 0 0 1 751.6345 448.4274)" class="st1 st2">IO6</text>
+	<text transform="matrix(1 0 0 1 751.6345 455.6576)" class="st1 st2">IO5</text>
+	<text transform="matrix(1 0 0 1 751.6345 462.8877)" class="st1 st2">IO4</text>
+	<text transform="matrix(1 0 0 1 751.6345 470.1178)" class="st1 st2">IO3</text>
+	<text transform="matrix(1 0 0 1 751.6345 477.3479)" class="st1 st2">IO2</text>
+	<text transform="matrix(1 0 0 1 751.6345 484.578)" class="st1 st2">IO1</text>
+	<text transform="matrix(1 0 0 1 751.6345 491.8081)" class="st1 st2">IO0</text>
+	<text transform="matrix(1 0 0 1 751.6345 398.7741)" class="st1 st2">AD4/SDA</text>
+	<text transform="matrix(1 0 0 1 751.6345 391.5138)" class="st1 st2">AD5/SCL</text>
+	<text transform="matrix(1 0 0 1 751.6345 406.0042)" class="st1 st2">AD3</text>
+	<text transform="matrix(1 0 0 1 751.6345 413.2343)" class="st1 st2">AD2</text>
+	<text transform="matrix(1 0 0 1 751.6345 420.4644)" class="st1 st2">AD1</text>
+	<text transform="matrix(1 0 0 1 751.6345 427.6945)" class="st1 st2">AD0</text>
+	<text transform="matrix(1 0 0 1 869.4915 303.1836)" class="st1 st2">8</text>
+	<text transform="matrix(1 0 0 1 869.4915 295.3778)" class="st1 st2">9</text>
+	<text transform="matrix(1 0 0 1 867.4915 288.1764)" class="st1 st2">10</text>
+	<text transform="matrix(1 0 0 1 830.8349 290.8347)" class="st1 st2">AD5/SCL</text>
+	<text transform="matrix(1 0 0 1 830.8349 298.0338)" class="st1 st2">AD4/SDA</text>
+	<text transform="matrix(1 0 0 1 796.6342 303.8173)" class="st1 st2">AREF</text>
+	<text transform="matrix(1 0 0 1 796.6342 312.4343)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 825.4357 319.6334)" class="st1 st2">SCK</text>
+	<text transform="matrix(1 0 0 1 730.0347 338.5771)" class="st1 st2">19</text>
+	<text transform="matrix(1 0 0 1 739.0342 304.6672)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 679.6346 262.0344)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 668.8345 159.4346)" class="st1 st2">POWER</text>
+	<text transform="matrix(1 0 0 1 622.0344 182.8347)" class="st1 st2">RESET</text>
+	<text transform="matrix(1 0 0 1 622.0344 190.0348)" class="st1 st2">+3V3</text>
+	<text transform="matrix(1 0 0 1 636.4348 218.8347)" class="st1 st2">VIN</text>
+	<text transform="matrix(1 0 0 1 616.9607 233.2354)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 580.7097 295.8741)" class="st1 st2">+5V</text>
+	<text transform="matrix(1 0 0 1 632.2976 360.1765)" class="st1 st2">10</text>
+	<text transform="matrix(1 0 0 1 636.4344 521.2347)" class="st1 st2">M8RXD</text>
+	<text transform="matrix(1 0 0 1 501.0747 521.2347)" class="st1 st2">YELLOW</text>
+	<text transform="matrix(1 0 0 1 501.0747 515.1145)" class="st1 st2">RX</text>
+	<text transform="matrix(1 0 0 1 501.0747 480.1189)" class="st1 st2">YELLOW</text>
+	<text transform="matrix(1 0 0 1 438.4354 463.6903)" class="st1 st2">M8TXD</text>
+	<text transform="matrix(1 0 0 1 429.6407 475.3777)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 429.6407 468.1764)" class="st1 st2">7</text>
+	<text transform="matrix(1 0 0 1 429.6407 460.9751)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 429.6407 453.7738)" class="st1 st2">9</text>
+	<text transform="matrix(1 0 0 1 429.6407 410.5774)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 427.6347 446.5725)" class="st1 st2">10</text>
+	<text transform="matrix(1 0 0 1 427.6347 439.3712)" class="st1 st2">11</text>
+	<text transform="matrix(1 0 0 1 427.6347 432.1699)" class="st1 st2">12</text>
+	<text transform="matrix(1 0 0 1 427.6347 424.9686)" class="st1 st2">13</text>
+	<text transform="matrix(1 0 0 1 427.6347 403.7637)" class="st1 st2">26</text>
+	<text transform="matrix(1 0 0 1 427.6347 396.5624)" class="st1 st2">25</text>
+	<text transform="matrix(1 0 0 1 427.6347 389.3611)" class="st1 st2">23</text>
+	<text transform="matrix(1 0 0 1 427.6347 382.1598)" class="st1 st2">22</text>
+	<text transform="matrix(1 0 0 1 427.6349 338.3854)" class="st1 st2">17</text>
+	<text transform="matrix(1 0 0 1 427.6347 331.5717)" class="st1 st2">18</text>
+	<text transform="matrix(1 0 0 1 427.6347 324.3704)" class="st1 st2">19</text>
+	<text transform="matrix(1 0 0 1 427.6347 353.5874)" class="st1 st2">15</text>
+	<text transform="matrix(1 0 0 1 427.6347 346.3861)" class="st1 st2">16</text>
+	<text transform="matrix(1 0 0 1 427.6347 317.1691)" class="st1 st2">20</text>
+	<text transform="matrix(1 0 0 1 427.6347 309.9678)" class="st1 st2">21</text>
+	<text transform="matrix(1 0 0 1 257.1759 498.7955)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 226.035 463.6333)" class="st1 st2">UGND</text>
+	<text transform="matrix(1 0 0 1 226.035 456.2549)" class="st1 st2">RD+</text>
+	<text transform="matrix(1 0 0 1 226.035 449.2342)" class="st1 st2">RD–</text>
+	<text transform="matrix(1 0 0 1 226.035 442.0338)" class="st1 st2">USBVCC</text>
+	<text transform="matrix(1 0 0 1 226.0348 434.835)" class="st1 st2">TP_VUCAP</text>
+	<text transform="matrix(1 0 0 1 224.951 490.2739)" class="st1 st2">GROUND</text>
+	<text transform="matrix(1 0 0 1 228.6919 475.2336)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 249.894 475.2336)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 240.0739 472.2745)" class="st1 st2">SJ</text>
+	<text transform="matrix(1 0 0 1 141.0748 492.4341)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 123.8174 457.1433)" class="st1 st2">100n</text>
+	<text transform="matrix(1 0 0 1 174.189 479.4517)" class="st1 st2">C8</text>
+	<text transform="matrix(1 0 0 1 174.189 487.0336)" class="st1 st2">1u</text>
+	<text transform="matrix(1 0 0 1 130.9946 465.0744)" class="st1 st2">C7</text>
+	<text transform="matrix(1 0 0 1 277.4977 475.233)" class="st1 st2">33</text>
+	<text transform="matrix(1 0 0 1 277.4977 460.9771)" class="st1 st2">28</text>
+	<text transform="matrix(1 0 0 1 277.4977 453.7767)" class="st1 st2">29</text>
+	<text transform="matrix(1 0 0 1 277.4977 446.5764)" class="st1 st2">30</text>
+	<text transform="matrix(1 0 0 1 277.4977 439.3761)" class="st1 st2">31</text>
+	<text transform="matrix(1 0 0 1 277.4977 432.1758)" class="st1 st2">27</text>
+	<text transform="matrix(1 0 0 1 277.4977 381.7764)" class="st1 st2">32</text>
+	<text transform="matrix(1 0 0 1 279.0926 403.3777)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 279.0926 410.5772)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 438.4354 456.2545)" class="st1 st2">M8RXD</text>
+	<text transform="matrix(1 0 0 1 442.6214 449.2341)" class="st1 st2">RXLED</text>
+	<text transform="matrix(1 0 0 1 442.6214 442.0343)" class="st1 st2">TXLED</text>
+	<text transform="matrix(1 0 0 1 501.0747 473.9987)" class="st1 st2">TX</text>
+	<text transform="matrix(1 0 0 1 636.4344 535.6339)" class="st1 st2">M8TXD</text>
+	<text transform="matrix(1 0 0 1 632.2976 374.5768)" class="st1 st2">9</text>
+	<text transform="matrix(1 0 0 1 632.2976 388.9771)" class="st1 st2">21</text>
+	<text transform="matrix(1 0 0 1 573.6261 411.0703)" class="st1 st2">+5V</text>
+	<text transform="matrix(1 0 0 1 748.0347 259.1546)" class="st1 st2">+5V</text>
+	<text transform="matrix(1 0 0 1 573.6261 447.0751)" class="st1 st2">+5V</text>
+	<text transform="matrix(1 0 0 1 539.2344 469.8125)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 535.6349 460.0336)" class="st1 st2">1K</text>
+	<text transform="matrix(1 0 0 1 542.8348 511.8743)" class="st1 st2">1K</text>
+	<text transform="matrix(1 0 0 1 550.0344 460.0336)" class="st1 st2">RN2C</text>
+	<text transform="matrix(1 0 0 1 542.8346 493.8743)" class="st1 st2">RN2B</text>
+	<text transform="matrix(1 0 0 1 558.2347 469.8125)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 539.2344 496.9774)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 558.2347 496.9774)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 575.5945 429.5083)" class="st1 st2">C6</text>
+	<text transform="matrix(1 0 0 1 571.6343 436.6342)" class="st1 st2">100n</text>
+	<text transform="matrix(1 0 0 1 632.2976 396.1762)" class="st1 st2">20</text>
+	<text transform="matrix(1 0 0 1 632.2976 403.3782)" class="st1 st2">22</text>
+	<text transform="matrix(1 0 0 1 632.2976 417.7765)" class="st1 st2">7</text>
+	<text transform="matrix(1 0 0 1 632.2976 425.7592)" class="st1 st2">8</text>
+	<text transform="matrix(1 0 0 1 632.2976 338.5768)" class="st1 st2">1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 609.5095 275.7246)" class="st1 st2">4</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 616.6733 275.7246)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 668.8344 233.2353)" class="st1 st2">8x1F–H8.5</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 637.7876 280.9375)" class="st1 st2">RESET</text>
+	<text transform="matrix(1 0 0 1 601.0728 339.4343)" class="st1 st2">RESET</text>
+	<text transform="matrix(1 0 0 1 565.0229 355.6334)" class="st1 st2">XTAL2</text>
+	<text transform="matrix(1 0 0 1 565.0229 377.2349)" class="st1 st2">XTAL1</text>
+	<text transform="matrix(1 0 0 1 596.834 384.434)" class="st1 st2">16MHZ</text>
+	<text transform="matrix(1 0 0 1 524.8347 353.2962)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 616.2516 463.634)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 485.2347 427.6339)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 600.4343 363.126)" class="st1 st2">R2</text>
+	<text transform="matrix(1 0 0 1 535.6342 384.434)" class="st1 st2">CSTCE16M0V53–R0</text>
+	<text transform="matrix(1 0 0 1 598.9944 368.9547)" class="st1 st2">1M</text>
+	<text transform="matrix(1 0 0 1 607.6877 391.6343)" class="st1 st2">AREF</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 622.0347 348.4336)" class="st1 st2">CD1206–S01575</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 630.6732 353.8457)" class="st1 st2">TS42031–160R–TR–7260</text>
+	<text transform="matrix(1 0 0 1 609.2277 159.0751)" class="st1 st2">+5V</text>
+	<text transform="matrix(1 0 0 1 691.321 304.6672)" class="st1 st2">3x2 M</text>
+	<text transform="matrix(1 0 0 1 691.321 267.4342)" class="st1 st2">ICSP</text>
+	<text transform="matrix(1 0 0 1 703.892 273.6347)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 682.2921 166.2745)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 682.2921 173.3125)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 682.2921 180.4989)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 682.2921 187.6853)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 682.2921 194.8717)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 682.2921 202.0581)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 682.2921 209.2445)" class="st1 st2">7</text>
+	<text transform="matrix(1 0 0 1 682.2921 216.4309)" class="st1 st2">8</text>
+	<text transform="matrix(1 0 0 1 703.892 281.4736)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 703.892 288.1766)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 716.9883 273.6347)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 716.9883 281.4736)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 716.9883 288.1766)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 730.0347 345.7762)" class="st1 st2">18</text>
+	<text transform="matrix(1 0 0 1 730.0347 352.9753)" class="st1 st2">17</text>
+	<text transform="matrix(1 0 0 1 730.0347 360.1744)" class="st1 st2">16</text>
+	<text transform="matrix(1 0 0 1 730.0347 367.3735)" class="st1 st2">15</text>
+	<text transform="matrix(1 0 0 1 730.0347 374.5726)" class="st1 st2">14</text>
+	<text transform="matrix(1 0 0 1 730.0347 389.4735)" class="st1 st2">28</text>
+	<text transform="matrix(1 0 0 1 730.0347 396.6726)" class="st1 st2">27</text>
+	<text transform="matrix(1 0 0 1 730.0347 403.8717)" class="st1 st2">26</text>
+	<text transform="matrix(1 0 0 1 730.0347 411.0708)" class="st1 st2">25</text>
+	<text transform="matrix(1 0 0 1 730.0347 418.2699)" class="st1 st2">24</text>
+	<text transform="matrix(1 0 0 1 730.0347 425.469)" class="st1 st2">23</text>
+	<text transform="matrix(1 0 0 1 730.0347 439.2375)" class="st1 st2">13</text>
+	<text transform="matrix(1 0 0 1 730.0347 446.4366)" class="st1 st2">12</text>
+	<text transform="matrix(1 0 0 1 730.0347 453.6357)" class="st1 st2">11</text>
+	<text transform="matrix(1 0 0 1 730.0347 460.8348)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 730.0347 468.0339)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 730.0347 475.233)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 730.0347 483.052)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 730.0347 490.2511)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 825.4357 326.8347)" class="st1 st2">MLSO</text>
+	<text transform="matrix(1 0 0 1 827.2352 334.0343)" class="st1 st2">MOST</text>
+	<text transform="matrix(1 0 0 1 832.6343 341.2354)" class="st1 st2">SS</text>
+	<text transform="matrix(1 0 0 1 869.4915 310.4294)" class="st1 st2">7</text>
+	<text transform="matrix(1 0 0 1 869.4915 317.6752)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 869.4915 324.921)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 869.4915 332.1667)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 869.4915 339.4125)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 869.4915 346.6583)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 869.4915 353.9041)" class="st1 st2">1</text>
+	<polyline class="st3" points="874,449.2 845.2,449.2 845.2,442 722.8,442 	"/>
+	<polyline class="st3" points="874,456.4 838,456.4 838,449.2 722.8,449.2 	"/>
+	<polyline class="st3" points="874,420.4 845.2,420.4 845.2,427.6 722.8,427.6 	"/>
+	<polyline class="st3" points="874,355.6 845.2,355.6 845.2,377.2 722.8,377.2 	"/>
+	<polyline class="st3" points="874,348.4 838,348.4 838,370 722.8,370 	"/>
+	<polyline class="st3" points="874,341.6 830.8,341.6 830.8,363.2 722.8,363.2 	"/>
+	<polyline class="st3" points="874,334 823.6,334 823.6,355.6 722.8,355.6 	"/>
+	<polyline class="st3" points="874,326.8 816.4,326.8 816.4,348.4 722.8,348.4 	"/>
+	<polyline class="st3" points="874,319.8 780.4,319.8 780.4,341.4 722.8,341.4 	"/>
+	<polyline class="st3" points="874,413.2 838,413.2 838,420.4 722.8,420.4 	"/>
+	<polyline class="st3" points="874,406 830.8,406 830.8,413.2 722.8,413.2 	"/>
+	<polyline class="st3" points="874,398.8 823.6,398.8 823.6,406 722.8,406 	"/>
+	<polyline class="st3" points="874,391.5 816.4,391.5 816.4,398.7 722.8,398.7 	"/>
+	<polyline class="st3" points="874,384.4 809.2,384.4 809.2,391.6 722.8,391.6 	"/>
+	<polyline class="st3" points="874,463.6 830.8,463.6 830.8,456.4 722.8,456.4 	"/>
+	<polyline class="st3" points="874,470.8 823.6,470.8 823.6,463.6 722.8,463.6 	"/>
+	<polyline class="st3" points="874,478 816.4,478 816.4,470.8 722.8,470.8 	"/>
+	<polyline class="st3" points="874,485.2 809.2,485.2 809.2,478 722.8,478 	"/>
+	<polyline class="st3" points="874,492.4 802,492.4 802,485.2 722.8,485.2 	"/>
+	<polyline class="st3" points="874,499.6 794.8,499.6 794.8,492.4 722.8,492.4 	"/>
+	<line class="st3" x1="816.4" y1="290.8" x2="874" y2="290.8"/>
+	<line class="st3" x1="809.2" y1="298" x2="874" y2="298"/>
+	<polyline class="st3" points="874,305.2 787.6,305.2 787.6,275 	"/>
+	<line class="st3" x1="794.8" y1="312.4" x2="874" y2="312.4"/>
+	<line class="st3" x1="787.6" y1="270.7" x2="787.6" y2="247.6"/>
+	<line class="st3" x1="782.2" y1="247.6" x2="793" y2="247.6"/>
+	<line class="st4" x1="781.9" y1="275.3" x2="793.4" y2="275.3"/>
+	<line class="st4" x1="781.9" y1="270.7" x2="793.4" y2="270.7"/>
+	<circle cx="787.6" cy="305.2" r="1.9"/>
+	<circle cx="614.8" cy="248.1" r="1.9"/>
+	<circle cx="614.8" cy="290.8" r="1.9"/>
+	<circle cx="658" cy="196.8" r="1.9"/>
+	<circle cx="780.4" cy="168.4" r="1.9"/>
+	<circle cx="809.2" cy="168.4" r="1.9"/>
+	<circle cx="830.8" cy="74.8" r="1.9"/>
+	<circle cx="809.2" cy="74.8" r="1.9"/>
+	<circle cx="809.2" cy="67.6" r="1.9"/>
+	<circle cx="622" cy="211.6" r="1.9"/>
+	<circle cx="607.6" cy="290.8" r="1.9"/>
+	<circle cx="588.2" cy="290.8" r="1.9"/>
+	<circle cx="586" cy="305.2" r="1.9"/>
+	<circle cx="586" cy="341.2" r="1.9"/>
+	<circle cx="571.6" cy="312.4" r="1.9"/>
+	<circle cx="578.8" cy="312.4" r="1.9"/>
+	<circle cx="542.8" cy="319.6" r="1.9"/>
+	<circle cx="434.8" cy="146.8" r="1.9"/>
+	<circle cx="391.6" cy="146.8" r="1.9"/>
+	<circle cx="262" cy="46" r="1.9"/>
+	<circle cx="175.6" cy="82.3" r="1.9"/>
+	<circle cx="175.6" cy="38.8" r="1.9"/>
+	<circle cx="514" cy="384.4" r="1.9"/>
+	<circle cx="593.2" cy="348.4" r="1.9"/>
+	<circle cx="593.2" cy="377.2" r="1.9"/>
+	<circle cx="593.2" cy="420.4" r="1.9"/>
+	<circle cx="614.8" cy="442" r="1.9"/>
+	<circle cx="780.4" cy="492.4" r="1.9"/>
+	<circle cx="787.6" cy="485.2" r="1.9"/>
+	<circle cx="578.8" cy="463.6" r="1.9"/>
+	<circle cx="614.8" cy="427.6" r="1.9"/>
+	<circle cx="607.6" cy="341.2" r="1.9"/>
+	<circle cx="578.8" cy="290.8" r="1.9"/>
+	<circle cx="614.8" cy="262" r="1.4"/>
+	<circle cx="614.5" cy="276.4" r="1.4"/>
+	<circle cx="766" cy="348.4" r="1.9"/>
+	<circle cx="773.2" cy="355.6" r="1.9"/>
+	<circle cx="758.8" cy="341.4" r="1.9"/>
+	<polyline class="st3" points="708.4,276.4 665.2,276.4 665.2,326.8 766,326.8 766,348.4 	"/>
+	<polyline class="st3" points="708.4,283.6 679.6,283.6 679.6,319.6 758.8,319.6 758.8,341.4 	"/>
+	<polyline class="st3" points="715.6,283.6 773.2,283.6 773.2,355.8 	"/>
+	<polyline class="st3" points="715.6,276.4 751.6,276.4 751.6,262 	"/>
+	<polyline class="st3" points="755.2,267.7 751.6,261.5 748,267.7 	"/>
+	<polyline class="st3" points="618.4,166.6 614.8,160.4 611.2,166.6 	"/>
+	<polyline class="st3" points="589.6,303.8 586,297.6 582.4,303.8 	"/>
+	<polyline class="st3" points="582.4,419 578.8,412.8 575.2,419 	"/>
+	<polyline class="st3" points="582.4,455 578.8,448.8 575.2,455 	"/>
+	<polyline class="st3" points="715.6,290.8 744.4,290.8 744.4,298 	"/>
+	<line class="st3" x1="739" y1="298" x2="749.8" y2="298"/>
+	<line class="st3" x1="681.4" y1="254.8" x2="692.2" y2="254.8"/>
+	<rect x="690.4" y="269.2" class="st3" width="43.2" height="28.8"/>
+	<polyline class="st3" points="686.8,254.8 686.8,247.6 607.6,247.6 607.6,262 614.8,262 618.4,274.6 	"/>
+	<line class="st3" x1="614.8" y1="247.8" x2="614.8" y2="262"/>
+	<polyline class="st3" points="623.8,263.8 627.4,263.8 627.4,274.6 623.8,274.6 	"/>
+	<g>
+		<g>
+			<line class="st3" x1="627.4" y1="269.2" x2="626.4" y2="269.2"/>
+			<line class="st5" x1="625.5" y1="269.2" x2="617.2" y2="269.2"/>
+			<line class="st3" x1="616.8" y1="269.2" x2="615.8" y2="269.2"/>
+		</g>
+	</g>
+	<polyline class="st3" points="600.4,254.8 600.4,269.2 607.6,269.2 	"/>
+	<line class="st3" x1="607.6" y1="265.6" x2="607.6" y2="272.8"/>
+	<line class="st3" x1="708.4" y1="290.8" x2="578.6" y2="290.8"/>
+	<polyline class="st3" points="607.6,290.8 607.6,276.4 614.8,276.4 614.8,290.8 	"/>
+	<polyline class="st3" points="643.6,341.2 578.8,341.2 578.8,182.8 686.8,182.8 	"/>
+	<line class="st3" x1="622" y1="190" x2="686.8" y2="190"/>
+	<line class="st3" x1="622" y1="211.6" x2="686.8" y2="211.6"/>
+	<line class="st3" x1="636.4" y1="218.8" x2="686.8" y2="218.8"/>
+	<polyline class="st3" points="686.8,197.2 614.8,197.2 614.8,161.2 	"/>
+	<polyline class="st3" points="686.8,175.6 658,175.6 658,197.2 	"/>
+	<polyline class="st3" points="686.8,204.4 622,204.4 622,226 	"/>
+	<polyline class="st3" points="586,305.2 607.6,305.2 607.6,341.2 	"/>
+	<line class="st3" x1="616.4" y1="226" x2="627.4" y2="226"/>
+	<line class="st3" x1="586" y1="341.2" x2="586" y2="298"/>
+	<line class="st3" x1="603.9" y1="316" x2="611.5" y2="316"/>
+	<polygon class="st0" points="604,323.2 611.2,323.2 607.6,316 	"/>
+	<rect x="583.6" y="312.2" class="st0" width="4.8" height="15"/>
+	<g>
+		<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 587.8351 326.834)" class="st1 st2">4</text>
+	</g>
+	<g>
+		<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 594.6735 333.1504)" class="st1 st2">RN1D</text>
+	</g>
+	<g>
+		<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 599.6419 319.6445)" class="st1 st2">D2</text>
+	</g>
+	<g>
+		<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 594.6738 311.582)" class="st1 st2">10K</text>
+	</g>
+	<polyline class="st3" points="643.6,362.8 607.6,362.8 607.6,348.4 564.4,348.4 564.4,360 	"/>
+	<rect x="590.7" y="355.6" class="st3" width="5" height="14.4"/>
+	<line class="st3" x1="593.2" y1="355.6" x2="593.2" y2="348.4"/>
+	<line class="st3" x1="593.2" y1="377.2" x2="593.2" y2="370"/>
+	<polyline class="st3" points="564.4,365.7 564.4,377.2 643.6,377.2 	"/>
+	<line class="st3" x1="559.4" y1="366" x2="569.5" y2="366"/>
+	<line class="st3" x1="559.4" y1="359.8" x2="569.5" y2="359.8"/>
+	<line class="st3" x1="588.2" y1="429.1" x2="598.3" y2="429.1"/>
+	<line class="st3" x1="588.2" y1="433.4" x2="598.3" y2="433.4"/>
+	<line class="st3" x1="617" y1="456.4" x2="627.1" y2="456.4"/>
+	<rect x="559.4" y="360.9" class="st3" width="10.1" height="3.8"/>
+	<line class="st3" x1="607.6" y1="391.6" x2="643.6" y2="391.6"/>
+	<polyline class="st3" points="643.6,398.8 593.2,398.8 593.2,429.1 	"/>
+	<polyline class="st3" points="593.2,433.4 593.2,442 622,442 622,456.4 	"/>
+	<polyline class="st3" points="578.8,412.8 578.8,420.4 643.6,420.4 	"/>
+	<polyline class="st3" points="643.6,406 614.8,406 614.8,442 	"/>
+	<line class="st3" x1="614.8" y1="427.7" x2="643.6" y2="427.7"/>
+	<line class="st3" x1="523" y1="355.6" x2="533.8" y2="355.6"/>
+	<polyline class="st3" points="528.4,355.6 528.4,362.8 550,362.8 	"/>
+	<polyline class="st3" points="555.8,355.6 550,355.6 550,370 555.8,370 	"/>
+	<line class="st3" x1="555.8" y1="353.3" x2="555.8" y2="358.3"/>
+	<line class="st3" x1="558.6" y1="353.3" x2="558.6" y2="358.3"/>
+	<line class="st3" x1="555.8" y1="367.7" x2="555.8" y2="372.7"/>
+	<line class="st3" x1="558.6" y1="367.7" x2="558.6" y2="372.7"/>
+	<line class="st3" x1="558.7" y1="355.6" x2="564.4" y2="355.6"/>
+	<line class="st3" x1="558.7" y1="370" x2="564.4" y2="370"/>
+	<rect x="542.8" y="461.5" class="st3" width="14.4" height="4.3"/>
+	<rect x="542.8" y="497.5" class="st3" width="14.4" height="4.3"/>
+	<polyline class="st3" points="557.2,499.6 578.8,499.6 578.8,448.8 	"/>
+	<line class="st3" x1="557.2" y1="463.6" x2="578.8" y2="463.6"/>
+	<polyline class="st3" points="420.4,449.2 492.4,449.2 492.4,499.6 542.8,499.6 	"/>
+	<polyline class="st3" points="420.4,442 499.6,442 499.6,463.6 542.5,463.6 	"/>
+	<polygon class="st3" points="514,467.2 514,460 506.8,463.6 	"/>
+	<line class="st0" x1="506.8" y1="467.7" x2="506.8" y2="459.7"/>
+	<polygon class="st3" points="514,503.2 514,496 506.8,499.6 	"/>
+	<line class="st0" x1="506.8" y1="503.6" x2="506.8" y2="495.7"/>
+	<line class="st3" x1="578.8" y1="312.4" x2="571.6" y2="312.4"/>
+	<polyline class="st3" points="420.4,427.6 514,427.6 514,319.6 529.9,319.6 	"/>
+	<line class="st3" x1="529.9" y1="313.9" x2="529.9" y2="325.4"/>
+	<line class="st3" x1="534.2" y1="313.9" x2="534.2" y2="325.4"/>
+	<polyline class="st3" points="554.4,298 542.8,298 542.8,319.6 	"/>
+	<polyline class="st3" points="534.2,319.6 571.6,319.6 571.6,298 561.9,298 	"/>
+	<path class="st6" d="M556.2,300.5c-1.4,0-2.6-1.1-2.6-2.6c0-1.4,1.1-2.6,2.6-2.6"/>
+	<path class="st6" d="M557.8,295.4c1.4,0,2.6,1.1,2.6,2.6c0,1.4-1.1,2.6-2.6,2.6"/>
+	<polyline class="st3" points="492.4,420.4 492.4,384.4 514,384.4 	"/>
+	<rect x="490.3" y="391.6" class="st0" width="4.3" height="14.4"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 494.3386 406.0039)" class="st1 st2">5</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 494.3386 383.5098)" class="st1 st2">4</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 488.8334 413.9414)" class="st1 st2">1K RN2D</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 468.6733 258.4336)" class="st1 st2">2x2 M–NM</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 499.275 258.4336)" class="st1 st2">JP2</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 486.83 240.7246)" class="st1 st2">1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 479.6286 240.7246)" class="st1 st2">3</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 486.83 227.6289)" class="st1 st2">2</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 479.6286 227.6289)" class="st1 st2">4</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 512.6171 349.1426)" class="st1 st2">DTR</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 527.3551 315.3145)" class="st1 st2">C5</text>
+	<text transform="matrix(1 0 0 1 550.6953 308.8394)" class="st1 st2">SJ</text>
+	<text transform="matrix(1 0 0 1 545.4347 295.3779)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 565.7878 295.3779)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 550.0347 290.8345)" class="st1 st2">RESET–EN</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 541.7532 315.3145)" class="st1 st2">100n</text>
+	<line class="st3" x1="487" y1="420.4" x2="498.3" y2="420.4"/>
+	<polyline class="st3" points="420.4,456.4 478,456.4 478,521.2 780.4,521.2 780.4,492.8 	"/>
+	<polyline class="st3" points="420.4,463.6 470.8,463.6 470.8,535.6 787.6,535.6 787.6,485.2 	"/>
+	<text transform="matrix(1 0 0 1 683.2344 525.585)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 702.2347 525.585)" class="st1 st2">4</text>
+	<rect x="686.8" y="519.1" class="st0" width="14.4" height="4.3"/>
+	<text transform="matrix(1 0 0 1 683.2344 539.9863)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 680.3093 517.6337)" class="st1 st2">1K</text>
+	<text transform="matrix(1 0 0 1 693.312 517.6337)" class="st1 st2">RN4B</text>
+	<text transform="matrix(1 0 0 1 680.3093 532.0339)" class="st1 st2">1K</text>
+	<text transform="matrix(1 0 0 1 693.312 532.0339)" class="st1 st2">RN4A</text>
+	<text transform="matrix(1 0 0 1 702.2347 539.9863)" class="st1 st2">4</text>
+	<rect x="686.8" y="533.5" class="st0" width="14.4" height="4.3"/>
+	<line class="st3" x1="420.4" y1="478" x2="434.8" y2="478"/>
+	<text transform="matrix(1 0 0 1 427.3934 360.066)" class="st1 st2">14</text>
+	<line class="st3" x1="420.4" y1="362.7" x2="434.8" y2="362.7"/>
+	<line class="st3" x1="420.4" y1="470.8" x2="434.8" y2="470.8"/>
+	<line class="st3" x1="420.4" y1="434.8" x2="434.8" y2="434.8"/>
+	<line class="st3" x1="420.4" y1="413.2" x2="434.8" y2="413.2"/>
+	<line class="st3" x1="420.4" y1="406" x2="434.8" y2="406"/>
+	<line class="st3" x1="420.4" y1="398.8" x2="434.8" y2="398.8"/>
+	<line class="st3" x1="420.4" y1="391.5" x2="434.8" y2="391.5"/>
+	<line class="st3" x1="420.4" y1="384.3" x2="434.8" y2="384.3"/>
+	<polyline class="st3" points="262,492.4 262,413.2 290.8,413.2 	"/>
+	<line class="st3" x1="256.6" y1="492.4" x2="267.4" y2="492.4"/>
+	<line class="st3" x1="290.8" y1="478" x2="243.8" y2="478"/>
+	<line class="st3" x1="237.1" y1="478" x2="218.8" y2="478"/>
+	<path class="st6" d="M239.6,480.6c-1.4,0-2.6-1.1-2.6-2.6s1.1-2.6,2.6-2.6"/>
+	<path class="st6" d="M241.2,475.5c1.4,0,2.6,1.1,2.6,2.6s-1.1,2.6-2.6,2.6"/>
+	<polyline class="st3" points="290.8,463.6 218.8,463.6 218.8,499.6 74.8,499.6 74.8,377.2 38.8,377.2 	"/>
+	<line class="st3" x1="161.2" y1="499.6" x2="161.2" y2="469.4"/>
+	<line class="st3" x1="155.5" y1="469.4" x2="167" y2="469.4"/>
+	<line class="st3" x1="155.5" y1="465.1" x2="167" y2="465.1"/>
+	<line class="st3" x1="141.1" y1="462.2" x2="152.6" y2="462.2"/>
+	<line class="st3" x1="141.1" y1="457.9" x2="152.6" y2="457.9"/>
+	<polyline class="st3" points="161.2,465.1 161.2,434.8 290.8,434.8 	"/>
+	<circle cx="218.8" cy="478" r="1.9"/>
+	<circle cx="161.2" cy="499.6" r="1.9"/>
+	<circle cx="96.4" cy="499.6" r="1.9"/>
+	<circle cx="96.4" cy="442" r="1.9"/>
+	<circle cx="125.2" cy="362.8" r="1.9"/>
+	<circle cx="96.4" cy="370" r="1.9"/>
+	<circle cx="96.4" cy="434.8" r="1.9"/>
+	<circle cx="31.6" cy="406" r="1.9"/>
+	<circle cx="262" cy="478" r="1.9"/>
+	<line class="st3" x1="197.2" y1="442" x2="290.8" y2="442"/>
+	<polyline class="st3" points="38.8,370 139.6,370 139.6,377.2 175.6,377.2 175.6,456.4 290.8,456.4 	"/>
+	
+		<rect x="151.5" y="370" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -223.2006 531.2698)" class="st0" width="5" height="14.4"/>
+	
+		<rect x="122.7" y="398.8" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 250.4693 812.0078)" class="st0" width="5" height="14.4"/>
+	
+		<rect x="151.5" y="348.4" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -201.5988 509.6681)" class="st0" width="5" height="14.4"/>
+	
+		<rect x="237.9" y="283.6" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 480.8693 581.6697)" class="st0" width="5" height="14.4"/>
+	<text transform="matrix(1 0 0 1 143.2344 375.0743)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 162.2347 375.0743)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 168.4351 377.2353)" class="st1 st2">RD+</text>
+	<text transform="matrix(1 0 0 1 168.4351 362.8348)" class="st1 st2">RD–</text>
+	<text transform="matrix(1 0 0 1 135.0581 369.3152)" class="st1 st2">22R</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 139.6345 428.3438)" class="st1 st2">CG0603MLC–05E</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 110.8349 428.3438)" class="st1 st2">CG0603MLC–05E</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 22.712 394.334)" class="st1 st2">P$2</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 30.7527 394.3809)" class="st1 st2">P$1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 26.1968 377.918)" class="st1 st2">P$2</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 34.2376 377.9648)" class="st1 st2">P$1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 34.2376 364.252)" class="st1 st2">USB</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 74.8346 413.2031)" class="st1 st2">UGND</text>
+	<text transform="matrix(1 0 0 1 46.0347 442.0349)" class="st1 st2">USHIELD</text>
+	<text transform="matrix(1 0 0 1 60.4351 355.6338)" class="st1 st2">XUSB</text>
+	<text transform="matrix(1 0 0 1 107.9546 329.786)" class="st1 st2">F1</text>
+	<text transform="matrix(1 0 0 1 107.9546 342.8287)" class="st1 st2">MF-MSMF050-2 500mA</text>
+	<text transform="matrix(1 0 0 1 132.4352 334.0341)" class="st1 st2">USBVCC</text>
+	<text transform="matrix(1 0 0 1 125.7481 262.0342)" class="st1 st2">MLSO2</text>
+	<text transform="matrix(1 0 0 1 132.4353 269.2346)" class="st1 st2">SCK2</text>
+	<text transform="matrix(1 0 0 1 132.4353 276.7256)" class="st1 st2">RESET2</text>
+	<text transform="matrix(1 0 0 1 164.8348 253.0341)" class="st1 st2">ISP1</text>
+	<text transform="matrix(1 0 0 1 164.8348 290.8348)" class="st1 st2">3x2 M</text>
+	<text transform="matrix(1 0 0 1 178.2917 259.3779)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 178.2917 266.577)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 178.2917 273.7761)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 191.3881 259.3779)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 191.3881 266.577)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 191.3881 273.7761)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 8.5896 334.0345)" class="st1 st2">USB-B_TH</text>
+	<text transform="matrix(1 0 0 1 111.5712 362.8346)" class="st1 st2">D-</text>
+	<text transform="matrix(1 0 0 1 111.5712 370.0334)" class="st1 st2">D+</text>
+	<text transform="matrix(1 0 0 1 40.1882 375.0746)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 40.1882 367.3782)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 40.1882 360.1769)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 40.1882 352.9775)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 31.6344 344.8346)" class="st1 st2">X2</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 116.8992 412.5137)" class="st1 st2">Z2</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 89.2339 412.5137)" class="st1 st2">Z1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 89.2339 480.1191)" class="st1 st2">L1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 107.2341 480.1191)" class="st1 st2">BLM21</text>
+	<text transform="matrix(1 0 0 1 153.3122 369.3152)" class="st1 st2">RN3D</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 195.0737 360.0664)" class="st1 st2">GND</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 236.8337 308.834)" class="st1 st2">10K</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 275.7866 319.6445)" class="st1 st2">CD1206–S01575</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 254.4735 290.2344)" class="st1 st2">D3</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 236.8337 291.5566)" class="st1 st2">RN1C</text>
+	<text transform="matrix(1 0 0 1 212.3548 305.2353)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 277.4975 324.1766)" class="st1 st2">24</text>
+	<text transform="matrix(1 0 0 1 277.4975 345.7761)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 277.4975 360.0662)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 277.4975 370.0344)" class="st1 st2">XT1</text>
+	<text transform="matrix(1 0 0 1 256.2731 362.2588)" class="st1 st2">1M</text>
+	<text transform="matrix(1 0 0 1 256.2731 355.6328)" class="st1 st2">R1</text>
+	<text transform="matrix(1 0 0 1 212.3548 231.075)" class="st1 st2">+5V</text>
+	<text transform="matrix(1 0 0 1 226.0348 269.2354)" class="st1 st2">MOSL2</text>
+	<text transform="matrix(1 0 0 1 211.6346 326.834)" class="st1 st2">RESET2</text>
+	<text transform="matrix(1 0 0 1 227.2592 341.2348)" class="st1 st2">XT2</text>
+	<text transform="matrix(1 0 0 1 227.2592 370.0333)" class="st1 st2">XT1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 216.6744 362.2578)" class="st1 st2">22C9P</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 238.2749 359.5938)" class="st1 st2">16MHz</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 263.6288 348.4336)" class="st1 st2">Y1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 249.2283 362.834)" class="st1 st2">2</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 225.6733 346.6582)" class="st1 st2">22p</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 202.6345 355.6328)" class="st1 st2">C11</text>
+	<text transform="matrix(1 0 0 1 143.2344 360.1767)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 162.2347 360.1767)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 135.0581 351.3377)" class="st1 st2">22R</text>
+	<text transform="matrix(1 0 0 1 153.3122 351.3377)" class="st1 st2">RN3A</text>
+	<polyline class="st3" points="119.5,413.2 119.5,411.8 131,400.3 131,398.8 	"/>
+	
+		<rect x="93.9" y="398.8" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 192.8693 812.0078)" class="st0" width="5" height="14.4"/>
+	<polyline class="st3" points="90.7,413.2 90.7,411.8 102.2,400.3 102.2,398.8 	"/>
+	<polyline class="st3" points="24.4,384.4 24.4,406 31.6,406 	"/>
+	<polyline class="st3" points="31.6,384.4 31.6,442 96.4,442 	"/>
+	<line class="st3" x1="96.4" y1="369.7" x2="96.4" y2="398.8"/>
+	<line class="st3" x1="96.4" y1="413.1" x2="96.4" y2="498.8"/>
+	<rect x="92.5" y="463.7" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 192.532 941.7806)" width="7.5" height="14.4"/>
+	<polyline class="st3" points="161.2,355.6 168.4,355.6 168.4,362.8 182.8,362.8 182.8,449.2 290.8,449.2 	"/>
+	<line class="st3" x1="141.1" y1="485.2" x2="152.2" y2="485.2"/>
+	<line class="st3" x1="146.8" y1="485.2" x2="146.8" y2="462.2"/>
+	<polyline class="st3" points="146.7,457.9 146.7,406 290.8,406 	"/>
+	<polyline class="st3" points="96.4,434.5 125.2,434.5 125.2,413.2 	"/>
+	<polyline class="st3" points="38.8,362.8 139.6,362.8 139.6,355.6 146.7,355.6 	"/>
+	<line class="st3" x1="125.2" y1="362.8" x2="125.2" y2="398.8"/>
+	<polyline class="st3" points="38.8,355.6 96.4,355.6 96.4,334 108,334 	"/>
+	<line class="st3" x1="128.1" y1="334" x2="161.2" y2="334"/>
+	<rect x="108" y="331.2" width="20.2" height="5.8"/>
+	<rect x="164.8" y="254.8" class="st3" width="43.2" height="28.8"/>
+	<polyline class="st3" points="182.8,262 110.8,262 110.8,312.4 269.2,312.4 269.2,276.4 499.6,276.4 499.6,341.2 420.4,341.2 	"/>
+	<polyline class="st3" points="182.8,269.2 118,269.2 118,319.6 276.4,319.6 276.4,283.6 492.4,283.6 492.4,355.6 420.4,355.6 	"/>
+	<polyline class="st3" points="182.8,276.4 125.2,276.4 125.2,326.8 290.8,326.8 	"/>
+	<polyline class="st3" points="190,276.4 218.8,276.4 218.8,298 	"/>
+	<line class="st3" x1="212.9" y1="298" x2="224.2" y2="298"/>
+	<text transform="matrix(1 0 0 1 242.4261 389.4576)" class="st1 st2">+5V</text>
+	<polyline class="st3" points="251.2,397.4 247.6,391.2 244,397.4 	"/>
+	<polyline class="st3" points="222.4,239 218.8,232.8 215.2,239 	"/>
+	<polyline class="st3" points="247.6,391.2 247.6,398.8 269.2,398.8 269.2,384.4 290.8,384.4 	"/>
+	<polyline class="st3" points="190,262 262,262 262,326.8 	"/>
+	<circle cx="262" cy="326.8" r="1.9"/>
+	<circle cx="240.4" cy="326.8" r="1.9"/>
+	<circle cx="247.6" cy="341.2" r="1.9"/>
+	<circle cx="247.6" cy="370" r="1.9"/>
+	<circle cx="269.2" cy="370" r="1.9"/>
+	<circle cx="269.2" cy="341.2" r="1.9"/>
+	<circle cx="204.4" cy="355.6" r="1.9"/>
+	<circle cx="240.4" cy="262" r="1.9"/>
+	<circle cx="218.8" cy="262" r="1.9"/>
+	<line class="st3" x1="258.2" y1="287.2" x2="265.8" y2="287.2"/>
+	<polygon class="st0" points="258.4,294.4 265.6,294.4 262,287.2 	"/>
+	<line class="st3" x1="218.8" y1="262" x2="218.8" y2="232.8"/>
+	<polyline class="st3" points="190,269.2 506.8,269.2 506.8,348.4 420.4,348.4 	"/>
+	<polyline class="st3" points="478,222.4 478,211.6 456.4,211.6 456.4,312.4 420.4,312.4 	"/>
+	<polyline class="st3" points="420.4,319.6 463.6,319.6 463.6,204.4 485.2,204.4 485.2,222.4 	"/>
+	<polyline class="st3" points="420.4,326.8 478,326.8 478,240.7 	"/>
+	<polyline class="st3" points="420.4,334 485.2,334 485.2,240.4 	"/>
+	<polyline class="st3" points="290.8,348.4 269.2,348.4 269.2,341.2 216.7,341.2 	"/>
+	<line class="st3" x1="216.7" y1="346.3" x2="216.7" y2="334.7"/>
+	<line class="st3" x1="212.4" y1="346.3" x2="212.4" y2="334.7"/>
+	<line class="st3" x1="216.7" y1="375.2" x2="216.7" y2="363.7"/>
+	<line class="st3" x1="212.4" y1="375.2" x2="212.4" y2="363.7"/>
+	<polyline class="st3" points="212.4,341.2 204.4,341.2 204.4,370 213.1,370 	"/>
+	<polyline class="st3" points="217,370 275.8,370 275.8,362.8 290.8,362.8 	"/>
+	<line class="st3" x1="240.1" y1="362.8" x2="255.2" y2="362.8"/>
+	<line class="st3" x1="240.1" y1="348.8" x2="255.2" y2="348.8"/>
+	<rect x="240.1" y="351.4" class="st3" width="15.1" height="8.5"/>
+	<line class="st3" x1="247.6" y1="341.2" x2="247.6" y2="349.1"/>
+	<line class="st3" x1="247.6" y1="362.8" x2="247.6" y2="370"/>
+	<rect x="266.7" y="348.4" class="st0" width="5" height="14.4"/>
+	<line class="st0" x1="269.2" y1="362.8" x2="269.2" y2="370"/>
+	<rect x="470.8" y="215.2" class="st3" width="21.6" height="43.2"/>
+	<rect x="668.8" y="161.2" class="st3" width="21.6" height="64.8"/>
+	<polyline class="st3" points="780.4,146.8 780.4,182.8 809.2,182.8 809.2,168.4 	"/>
+	<line class="st3" x1="852.4" y1="168.4" x2="780.4" y2="168.4"/>
+	<text transform="matrix(1 0 0 1 780.4344 176.8948)" class="st1 st2">RN4D</text>
+	<text transform="matrix(1 0 0 1 819.6978 157.2745)"><tspan x="0" y="0" class="st1 st2">GREEN </tspan><tspan x="9.7" y="6.5" class="st1 st2">ON</tspan></text>
+	<text transform="matrix(1 0 0 1 780.4344 191.4738)" class="st1 st2">RN4C</text>
+	<text transform="matrix(1 0 0 1 802.488 176.8948)" class="st1 st2">1K</text>
+	<text transform="matrix(1 0 0 1 802.488 191.474)" class="st1 st2">1K</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 859.6348 173.3125)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 846.6746 125.235)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 783.0924 165.7761)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 803.3881 165.7761)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 783.0924 180.6748)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 803.3881 180.6748)" class="st1 st2">5</text>
+	<rect x="787.6" y="180.7" class="st3" width="14.4" height="4.3"/>
+	<rect x="787.6" y="166.3" class="st3" width="14.4" height="4.3"/>
+	<polygon class="st3" points="823.3,164.9 823.3,172.1 830.5,168.5 	"/>
+	<line class="st0" x1="830.5" y1="164.5" x2="830.5" y2="172.4"/>
+	<line class="st3" x1="852.4" y1="163" x2="852.4" y2="173.8"/>
+	<text transform="matrix(1 0 0 1 776.8353 144.1766)" class="st1 st2">+5V</text>
+	<polyline class="st3" points="784,152.8 780.4,146.6 776.8,152.8 	"/>
+	<text transform="matrix(1 0 0 1 827.2351 50.5416)" class="st1 st2">+5V</text>
+	<text transform="matrix(1 0 0 1 774.4933 57.7766)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 732.6923 57.7766)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 774.4933 64.9772)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 832.2517 64.0341)" class="st1 st2">+5V</text>
+	<polyline class="st3" points="834.4,59.1 830.8,52.9 827.2,59.1 	"/>
+	<line class="st3" x1="846.7" y1="95" x2="858.2" y2="95"/>
+	<line class="st3" x1="846.7" y1="90.7" x2="858.2" y2="90.7"/>
+	<line class="st3" x1="803.5" y1="95" x2="815" y2="95"/>
+	<line class="st3" x1="803.5" y1="90.7" x2="815" y2="90.7"/>
+	<line class="st3" x1="846.7" y1="118" x2="858.2" y2="118"/>
+	<line class="st3" x1="852.4" y1="95.2" x2="852.4" y2="118"/>
+	<text transform="matrix(1 0 0 1 803.4745 125.235)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 816.4356 97.946)" class="st1 st2">47u</text>
+	<text transform="matrix(1 0 0 1 831.6127 97.946)" class="st1 st2">100n</text>
+	<text transform="matrix(1 0 0 1 831.6127 89.2348)" class="st1 st2">C2</text>
+	<text transform="matrix(1 0 0 1 816.436 89.2348)" class="st1 st2">PC2</text>
+	<line class="st3" x1="803.5" y1="118" x2="815" y2="118"/>
+	<line class="st3" x1="809.2" y1="95.2" x2="809.2" y2="118"/>
+	<line class="st3" x1="695.5" y1="95" x2="707" y2="95"/>
+	<line class="st3" x1="695.5" y1="90.7" x2="707" y2="90.7"/>
+	<text transform="matrix(1 0 0 1 695.4745 125.235)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 708.4352 60.4348)" class="st1 st2">VIN</text>
+	<text transform="matrix(1 0 0 1 679.6343 73.4172)" class="st1 st2">D1</text>
+	<text transform="matrix(1 0 0 1 637.7881 57.7765)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 621.3864 61.1436)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 679.6343 81.3859)" class="st1 st2">M17</text>
+	<text transform="matrix(1 0 0 1 622.0349 89.2347)" class="st1 st2">PWRIN</text>
+	<text transform="matrix(1 0 0 1 570.9146 39.6768)"><tspan x="0" y="0" class="st1 st2">X1</tspan><tspan x="0" y="6.5" class="st1 st2">POWERSUPPLY_DC21MM</tspan></text>
+	<text transform="matrix(1 0 0 1 737.2345 46.0339)"><tspan x="0" y="0" class="st1 st2">U1</tspan><tspan x="0" y="6.5" class="st1 st2">NCP1117ST50T3G</tspan></text>
+	<text transform="matrix(1 0 0 1 679.6343 89.2354)" class="st1 st2">PC1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 613.498 82.3242)" class="st1 st2">2</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 613.498 69.1641)" class="st1 st2">2</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 584.6172 82.3242)" class="st1 st2">1</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 547.8748 82.3242)" class="st1 st2">RN2A</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 528.6005 74.3105)" class="st1 st2">1K</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 540.5673 62.2344)" class="st1 st2">5</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 584.6172 69.1641)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 679.6343 96.4346)" class="st1 st2">47u</text>
+	<line class="st3" x1="695.5" y1="118" x2="707" y2="118"/>
+	<line class="st3" x1="701.2" y1="95.2" x2="701.2" y2="118"/>
+	<text transform="matrix(1 0 0 1 745.8746 125.235)" class="st1 st2">GND</text>
+	<line class="st3" x1="745.9" y1="118" x2="757.4" y2="118"/>
+	<line class="st3" x1="751.6" y1="82" x2="751.6" y2="118"/>
+	<text transform="matrix(1 0 0 1 580.2745 132.4351)" class="st1 st2">GND</text>
+	<line class="st3" x1="580.3" y1="125.2" x2="591.8" y2="125.2"/>
+	<text transform="matrix(1 0 0 1 551.4747 197.235)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 567.3132 162.6747)" class="st1 st2">C3</text>
+	<text transform="matrix(1 0 0 1 571.9936 170.2352)" class="st1 st2">1u</text>
+	<text transform="matrix(1 0 0 1 528.4353 139.6338)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 528.4353 146.8346)" class="st1 st2">+3V3</text>
+	<text transform="matrix(1 0 0 1 474.4347 176.3428)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 466.2916 173.3125)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 522.5886 173.3125)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 522.5886 144.1765)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 466.2916 158.577)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 466.2916 144.1765)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 474.4347 161.5966)" class="st1 st2">ON/!OFF</text>
+	<text transform="matrix(1 0 0 1 474.4347 146.8347)" class="st1 st2">IN</text>
+	<text transform="matrix(1 0 0 1 504.2254 146.8347)" class="st1 st2">OUT</text>
+	<text transform="matrix(1 0 0 1 497.7493 176.3424)" class="st1 st2">NC/FB</text>
+	<text transform="matrix(1 0 0 1 470.8347 190.0338)" class="st1 st2">LP2985–33DBVR</text>
+	<text transform="matrix(1 0 0 1 470.8347 136.0348)" class="st1 st2">U2</text>
+	<line class="st3" x1="551.5" y1="190" x2="563" y2="190"/>
+	<text transform="matrix(1 0 0 1 429.0746 197.235)" class="st1 st2">GND</text>
+	<line class="st3" x1="429.1" y1="190" x2="440.6" y2="190"/>
+	<line class="st3" x1="586" y1="74.8" x2="586" y2="125.2"/>
+	<polyline class="st3" points="773.2,60.4 809.2,60.4 809.2,90.7 	"/>
+	<polyline class="st3" points="809.2,74.8 852.4,74.8 852.4,90.7 	"/>
+	<line class="st3" x1="830.8" y1="74.8" x2="830.8" y2="52.9"/>
+	<line class="st3" x1="773.2" y1="67.6" x2="809.2" y2="67.6"/>
+	<polyline class="st3" points="701.2,90.7 701.2,60.4 737.2,60.4 	"/>
+	<polygon class="st3" points="668.8,71.3 668.8,78.5 676,74.9 	"/>
+	<line class="st0" x1="676" y1="70.9" x2="676" y2="78.8"/>
+	<polyline class="st3" points="614.8,74.8 614.8,89.8 665.7,89.8 665.7,74.8 701.2,74.8 	"/>
+	<polyline class="st3" points="586,103.6 643.6,103.6 643.6,60.4 629.2,60.4 	"/>
+	<rect x="571.6" y="46" class="st3" width="57.6" height="28.8"/>
+	<g>
+		<polygon points="825.4,178.6 830,180.5 828.1,175.9 		"/>
+		<line class="st3" x1="827.9" y1="178.4" x2="823.7" y2="174.2"/>
+	</g>
+	<g>
+		<polygon points="830.8,178.6 835.4,180.5 833.5,175.9 		"/>
+		<line class="st3" x1="833.3" y1="178.4" x2="829.1" y2="174.2"/>
+	</g>
+	<g>
+		<polygon points="512.9,454.8 508.4,452.9 510.2,457.5 		"/>
+		<line class="st3" x1="510.4" y1="455" x2="514.6" y2="459.2"/>
+	</g>
+	<g>
+		<polygon points="507.5,454.8 503,452.9 504.9,457.5 		"/>
+		<line class="st3" x1="505.1" y1="455" x2="509.2" y2="459.2"/>
+	</g>
+	<g>
+		<polygon points="512.9,490.3 508.4,488.4 510.2,493 		"/>
+		<line class="st3" x1="510.4" y1="490.5" x2="514.6" y2="494.7"/>
+	</g>
+	<g>
+		<polygon points="507.5,490.3 503,488.4 504.9,493 		"/>
+		<line class="st3" x1="505.1" y1="490.5" x2="509.2" y2="494.7"/>
+	</g>
+	<line class="st3" x1="551.5" y1="166.9" x2="563" y2="166.9"/>
+	<line class="st3" x1="551.5" y1="162.7" x2="563" y2="162.7"/>
+	<line class="st3" x1="557.2" y1="190" x2="557.2" y2="166.9"/>
+	<line class="st3" x1="521.2" y1="175.6" x2="528.4" y2="175.6"/>
+	<polyline class="st3" points="521.2,146.8 557.2,146.8 557.2,162.7 	"/>
+	<polyline class="st3" points="470.8,146.5 348.4,146.5 348.4,141.9 	"/>
+	<polyline class="st3" points="434.8,146.5 434.8,161.2 470.8,161.2 	"/>
+	<polyline class="st3" points="434.8,190 434.8,175.6 470.8,175.6 	"/>
+	<rect x="470.8" y="139.6" class="st3" width="50.4" height="43.2"/>
+	<text transform="matrix(1 0 0 1 388.0346 129.7206)" class="st1 st2">+5V</text>
+	<text transform="matrix(1 0 0 1 363.4377 146.8344)" class="st1 st2">+5V</text>
+	<text transform="matrix(1 0 0 1 428.9879 74.8345)" class="st1 st2">SCK</text>
+	<text transform="matrix(1 0 0 1 514.6622 46.0341)" class="st1 st2">L13</text>
+	<text transform="matrix(1 0 0 1 305.2349 146.8344)" class="st1 st2">USBVCC</text>
+	<text transform="matrix(1 0 0 1 355.6343 75.1257)" class="st1 st2">LMV358IDGKR</text>
+	<text transform="matrix(1 0 0 1 488.8334 96.4346)" class="st1 st2">LMV358IDGKR</text>
+	<text transform="matrix(1 0 0 1 356.7198 51.0752)"><tspan x="0" y="0" class="st1 st2">U5A</tspan><tspan x="6.5" y="6.5" class="st1 st2">7</tspan></text>
+	<text transform="matrix(1 0 0 1 336.1962 54.8289)" class="st1 st2">+</text>
+	<text transform="matrix(1 0 0 1 328.7385 50.5414)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 328.7385 64.9773)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 299.8348 67.6335)" class="st1 st2">+3V3</text>
+	<text transform="matrix(1 0 0 1 290.8348 46.0346)" class="st1 st2">CMP</text>
+	<text transform="matrix(1 0 0 1 239.1355 6.4344)" class="st1 st2">VIN</text>
+	<text transform="matrix(1 0 0 1 336.1962 69.4343)" class="st1 st2">–</text>
+	<text transform="matrix(1 0 0 1 486.0047 73.0341)"><tspan x="0" y="0" class="st1 st2">U5B</tspan><tspan x="6.5" y="6.5" class="st1 st2">7</tspan></text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 342.3145 160.5117)"><tspan x="0" y="0" class="st1 st2">T1</tspan><tspan x="-13" y="6.5" class="st1 st2">FDN30P</tspan></text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 391.5973 109.3584)" class="st1 st2">GATE_CMD</text>
+	<polyline class="st3" points="395.2,138.3 391.6,132.1 388,138.3 	"/>
+	<line class="st3" x1="391.6" y1="132.1" x2="391.6" y2="146.5"/>
+	<polygon points="347,148.9 347,152.8 349.9,150.9 	"/>
+	<polygon points="350.4,143.6 346.5,143.6 348.4,146.5 	"/>
+	<line class="st3" x1="349.8" y1="152.8" x2="349.8" y2="148.9"/>
+	<polyline class="st3" points="339.8,146.8 339.8,150.9 357.1,150.9 357.1,146.5 	"/>
+	<rect x="352.4" y="141.1" width="4.3" height="1.4"/>
+	<rect x="346.3" y="141.1" width="4.3" height="1.4"/>
+	<rect x="340.2" y="141.1" width="4.3" height="1.4"/>
+	<polyline class="st3" points="290.8,146.8 342.3,146.8 342.3,141.8 	"/>
+	<polyline class="st3" points="341.2,139.6 355.6,139.6 355.6,110.2 391.6,110.2 391.6,60.4 362.8,60.4 	"/>
+	<polygon class="st3" points="334,74.8 334,46 362.8,60.4 	"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 545.7142 116.5938)"><tspan x="0" y="0" class="st1 st2">L</tspan><tspan x="0" y="6.5" class="st1 st2">YELLOW</tspan></text>
+	<polygon class="st3" points="539.6,103.6 532.4,103.6 536,110.8 	"/>
+	<line class="st0" x1="540" y1="110.8" x2="532.1" y2="110.8"/>
+	<g>
+		<polygon points="525.9,105.7 524,110.3 528.6,108.4 		"/>
+		<line class="st3" x1="526.1" y1="108.2" x2="530.3" y2="104"/>
+	</g>
+	<g>
+		<polygon points="525.9,111.1 524,115.7 528.6,113.8 		"/>
+		<line class="st3" x1="526.1" y1="113.6" x2="530.3" y2="109.4"/>
+	</g>
+	<line class="st3" x1="530.2" y1="132.4" x2="541" y2="132.4"/>
+	<polyline class="st3" points="463.6,89.2 449.2,89.2 449.2,103.6 514,103.6 514,46 535.6,46 535.6,131.5 	"/>
+	<line class="st3" x1="420.4" y1="74.8" x2="463.6" y2="74.8"/>
+	<text transform="matrix(1 0 0 1 465.7961 76.429)" class="st1 st2">+</text>
+	<text transform="matrix(1 0 0 1 458.3385 72.1414)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 458.3385 86.5773)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 465.7961 91.0343)" class="st1 st2">–</text>
+	<polygon class="st3" points="463.6,96.4 463.6,67.6 492.4,82 	"/>
+	<line class="st3" x1="298" y1="67.6" x2="334" y2="67.6"/>
+	<text transform="matrix(1 0 0 1 255.7058 103.635)" class="st1 st2">GND</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 258.4351 84.8574)" class="st1 st2">10K RN1B</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 270.6734 37.9316)" class="st1 st2">RN1A 10K</text>
+	<line class="st3" x1="255.7" y1="96.4" x2="267.2" y2="96.4"/>
+	<text transform="matrix(1 0 0 1 169.8746 103.635)" class="st1 st2">GND</text>
+	<line class="st3" x1="169.9" y1="96.4" x2="181.4" y2="96.4"/>
+	<line class="st3" x1="262" y1="96.4" x2="262" y2="31.6"/>
+	<rect x="259.9" y="60.4" class="st0" width="4.3" height="14.4"/>
+	<rect x="259.9" y="17.2" class="st0" width="4.3" height="14.4"/>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 263.6285 74.4727)" class="st1 st2">5</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 263.6285 11.7969)" class="st1 st2">5</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 263.6285 54.3145)" class="st1 st2">4</text>
+	<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 263.6285 30.6719)" class="st1 st2">4</text>
+	<polyline class="st3" points="262,46 319.6,46 319.6,53.2 334,53.2 	"/>
+	<polyline class="st3" points="233.2,6.4 262,6.4 262,17.2 	"/>
+	<polyline class="st3" points="161.2,53.2 161.2,38.8 197.2,38.8 197.2,61.9 	"/>
+	<polyline class="st3" points="161.2,67.6 161.2,82 197.2,82 197.2,66.2 	"/>
+	<line class="st3" x1="191.5" y1="66.2" x2="203" y2="66.2"/>
+	<line class="st3" x1="191.5" y1="61.9" x2="203" y2="61.9"/>
+	<text transform="matrix(1 0 0 1 207.313 62.2354)"><tspan x="0" y="0" class="st1 st2">C1</tspan><tspan x="0" y="6.5" class="st1 st2">100n</tspan></text>
+	<line class="st3" x1="175.6" y1="82" x2="175.6" y2="96.4"/>
+	<text transform="matrix(1 0 0 1 172.0347 21.2599)" class="st1 st2">+5V</text>
+	<polyline class="st3" points="179.2,29.8 175.6,23.6 172,29.8 	"/>
+	<line class="st3" x1="175.6" y1="38.8" x2="175.6" y2="23.6"/>
+</g>
+<g id="U3">
+	<text transform="matrix(1 0 0 1 343.6145 313.1432)" class="st1 st2">(PCINT7/OC0A/OC1C) PB7</text>
+	<text transform="matrix(1 0 0 1 375.9983 320.3428)" class="st1 st2">(PCINT6) PB6</text>
+	<text transform="matrix(1 0 0 1 375.9983 327.1259)" class="st1 st2">(PCINT5) PB5</text>
+	<text transform="matrix(1 0 0 1 295.0869 327.1257)" class="st1 st2">RESET (PC1/DW)</text>
+	<text transform="matrix(1 0 0 1 295.0869 348.7954)" class="st1 st2">XTAL2(PC0)</text>
+	<text transform="matrix(1 0 0 1 295.0869 363.1265)" class="st1 st2">XTAL1</text>
+	<text transform="matrix(1 0 0 1 295.0869 385.143)" class="st1 st2">AVCC</text>
+	<text transform="matrix(1 0 0 1 295.0869 406.035)" class="st1 st2">VCC</text>
+	<text transform="matrix(1 0 0 1 295.0869 413.9413)" class="st1 st2">GND</text>
+	<text transform="matrix(1 0 0 1 295.0869 435.5437)" class="st1 st2">UCAP</text>
+	<text transform="matrix(1 0 0 1 295.0869 442.7428)" class="st1 st2">UVCC</text>
+	<text transform="matrix(1 0 0 1 295.0869 464.3422)" class="st1 st2">UGND</text>
+	<text transform="matrix(1 0 0 1 295.0869 478.7432)" class="st1 st2">PAD</text>
+	<text transform="matrix(1 0 0 1 290.8346 492.435)" class="st1 st2">ATMEGA16U2–MU(R)</text>
+	<text transform="matrix(1 0 0 1 295.0869 449.9421)" class="st1 st2">D-</text>
+	<text transform="matrix(1 0 0 1 295.0869 457.1432)" class="st1 st2">D+</text>
+	<text transform="matrix(1 0 0 1 366.2834 334.0345)" class="st1 st2">(T1/PCINT4) PB4</text>
+	<text transform="matrix(1 0 0 1 346.8528 342.235)" class="st1 st2">(PD0/MISO/PCINT3) PB3</text>
+	<text transform="matrix(1 0 0 1 346.8528 349.1425)" class="st1 st2">(PDI/MOSI/PCINT2) PB2</text>
+	<text transform="matrix(1 0 0 1 359.8059 356.3424)" class="st1 st2">(SCLK/PCINT1) PB1</text>
+	<text transform="matrix(1 0 0 1 366.2834 363.5439)" class="st1 st2">(SS/PCINT0) PB0</text>
+	<text transform="matrix(1 0 0 1 350.091 385.1433)" class="st1 st2">(INT4/ICP1/CLK0) PC7</text>
+	<text transform="matrix(1 0 0 1 359.8059 392.342)" class="st1 st2">(OC1A/PCINT8) PC6</text>
+	<text transform="matrix(1 0 0 1 359.8059 399.5439)" class="st1 st2">(PCINT9/OC1B) PC5</text>
+	<text transform="matrix(1 0 0 1 372.76 406.7433)" class="st1 st2">(PCINT10) PC4</text>
+	<text transform="matrix(1 0 0 1 356.5676 413.5967)" class="st1 st2">(AIN2/PCINT11) PC2</text>
+	<text transform="matrix(1 0 0 1 366.2834 478.7426)" class="st1 st2">(OC0B/INT0) PD0</text>
+	<text transform="matrix(1 0 0 1 366.2834 471.5439)" class="st1 st2">(AIN0/INT1) PD1</text>
+	<text transform="matrix(1 0 0 1 350.091 464.3426)" class="st1 st2">(RXD1/AIN1/INT2) PD2</text>
+	<text transform="matrix(1 0 0 1 366.2834 457.1429)" class="st1 st2">(TXD1/INT3) PD3</text>
+	<text transform="matrix(1 0 0 1 366.2834 449.9425)" class="st1 st2">(INT5/AIN3) PD4</text>
+	<text transform="matrix(1 0 0 1 343.6145 442.7429)" class="st1 st2">(XCK/AIN4/PCINT12) PD5</text>
+	<text transform="matrix(1 0 0 1 353.3293 435.5438)" class="st1 st2">(RTS/AIN5/INT6) PD6</text>
+	<text transform="matrix(1 0 0 1 330.6613 428.3427)" class="st1 st2">(CTS/HWB/AIN6/TO/INT7) PD7</text>
+	<text transform="matrix(1 0 0 1 290.8346 303.0749)" class="st1 st2">U3</text>
+	<rect x="290.8" y="305.2" class="st3" width="129.6" height="180"/>
+</g>
+<g id="ZU4">
+	<text transform="matrix(1 0 0 1 647.8862 341.5937)" class="st1 st2">RESET</text>
+	<text transform="matrix(1 0 0 1 643.6351 331.8738)" class="st1 st2">ZU4</text>
+	<text transform="matrix(1 0 0 1 688.5383 341.5937)" class="st1 st2">(SCK) PB5</text>
+	<text transform="matrix(1 0 0 1 685.3 348.7957)" class="st1 st2">(MISO) PB4</text>
+	<text transform="matrix(1 0 0 1 685.3 355.9225)" class="st1 st2">(MOSI) PB3</text>
+	<text transform="matrix(1 0 0 1 691.7766 363.5435)" class="st1 st2">(SS) PB2</text>
+	<text transform="matrix(1 0 0 1 688.5383 370.7426)" class="st1 st2">(OC1) PB1</text>
+	<text transform="matrix(1 0 0 1 688.5383 377.9424)" class="st1 st2">(ICP) PB0</text>
+	<text transform="matrix(1 0 0 1 685.3 392.3427)" class="st1 st2">(ADC5) PC5</text>
+	<text transform="matrix(1 0 0 1 685.3 399.5574)" class="st1 st2">(ADC4) PC4</text>
+	<text transform="matrix(1 0 0 1 685.3 406.7433)" class="st1 st2">(ADC3) PC3</text>
+	<text transform="matrix(1 0 0 1 685.3 413.9415)" class="st1 st2">(ADC2) PC2</text>
+	<text transform="matrix(1 0 0 1 685.3 421.1438)" class="st1 st2">(ADC1) PC1</text>
+	<text transform="matrix(1 0 0 1 682.0618 428.3431)" class="st1 st2">(ADC0) PC0)</text>
+	<text transform="matrix(1 0 0 1 685.3 442.7433)" class="st1 st2">(AIN1) PD7</text>
+	<text transform="matrix(1 0 0 1 685.3 449.9424)" class="st1 st2">(AIN0) PD6</text>
+	<text transform="matrix(1 0 0 1 691.7766 457.1435)" class="st1 st2">(T1) PD5</text>
+	<text transform="matrix(1 0 0 1 691.7766 464.3426)" class="st1 st2">(T0) PD4</text>
+	<text transform="matrix(1 0 0 1 685.3 471.5436)" class="st1 st2">(INT1) PD3</text>
+	<text transform="matrix(1 0 0 1 685.3 478.7427)" class="st1 st2">(INT0) PD2</text>
+	<text transform="matrix(1 0 0 1 688.5383 485.9418)" class="st1 st2">(TXD) PD1</text>
+	<text transform="matrix(1 0 0 1 688.5383 493.1439)" class="st1 st2">(RXD) PD0</text>
+	<text transform="matrix(1 0 0 1 643.6343 506.8346)" class="st1 st2">ATMEGA328P–</text>
+	<text transform="matrix(1 0 0 1 647.8862 363.5437)" class="st1 st2">XTAL2</text>
+	<text transform="matrix(1 0 0 1 647.8862 377.942)" class="st1 st2">XTAL1</text>
+	<text transform="matrix(1 0 0 1 647.8862 392.3423)" class="st1 st2">AREF</text>
+	<text transform="matrix(1 0 0 1 647.8862 399.557)" class="st1 st2">AVEC</text>
+	<text transform="matrix(1 0 0 1 647.8862 406.7434)" class="st1 st2">AGND</text>
+	<text transform="matrix(1 0 0 1 647.8862 421.1437)" class="st1 st2">VCC</text>
+	<text transform="matrix(1 0 0 1 647.8862 428.3428)" class="st1 st2">GND</text>
+	<rect x="643.6" y="334" class="st3" width="79.2" height="165.6"/>
+</g>
+<g id="AD81FH85">
+	<rect x="856" y="442" class="st3" width="21.6" height="64.8"/>
+	<text transform="matrix(1 0 0 1 856.0352 433.7109)"><tspan x="0" y="0" class="st1 st2">AD</tspan><tspan x="0" y="6.5" class="st1 st2">8x1F-H8.5</tspan></text>
+	<text transform="matrix(1 0 0 1 869.4915 448.0753)" class="st1 st2">8</text>
+	<text transform="matrix(1 0 0 1 869.4915 455.3211)" class="st1 st2">7</text>
+	<text transform="matrix(1 0 0 1 869.4915 462.5669)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 869.4915 469.8127)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 869.4915 477.0585)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 869.4915 484.3043)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 869.4915 491.55)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 869.4915 498.7958)" class="st1 st2">1</text>
+	<text transform="matrix(1 0 0 1 856.0352 513.6745)" class="st1 st2">IOL</text>
+</g>
+<g id="IOH61FH85">
+	<rect x="856" y="376.8" class="st3" width="21.6" height="50.8"/>
+	<text transform="matrix(1 0 0 1 856.0352 369.4728)"><tspan x="0" y="0" class="st1 st2">IOH</tspan><tspan x="0" y="6.5" class="st1 st2">6x1F-H8.5</tspan></text>
+	<text transform="matrix(1 0 0 1 869.4915 382.1599)" class="st1 st2">6</text>
+	<text transform="matrix(1 0 0 1 869.4915 389.4057)" class="st1 st2">5</text>
+	<text transform="matrix(1 0 0 1 869.4915 396.6515)" class="st1 st2">4</text>
+	<text transform="matrix(1 0 0 1 869.4915 403.8973)" class="st1 st2">3</text>
+	<text transform="matrix(1 0 0 1 869.4915 411.1431)" class="st1 st2">2</text>
+	<text transform="matrix(1 0 0 1 869.4915 418.3889)" class="st1 st2">1</text>
+</g>
+</svg>

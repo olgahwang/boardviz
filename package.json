@@ -1,0 +1,20 @@
+{
+  "name": "boardviz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python3 -m http.server 7800"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olgahwang/boardviz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olgahwang/boardviz/issues"
+  },
+  "homepage": "https://github.com/olgahwang/boardviz#readme"
+}
